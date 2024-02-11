@@ -1,4 +1,4 @@
-# OpenCore EFI for AMD Ryzen Hackintosh [![tests](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml/badge.svg)](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml)
+# OpenCore EFI for AMD Ryzen Hackintosh
 
 ## Table of contents
 
