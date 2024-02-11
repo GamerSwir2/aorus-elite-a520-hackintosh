@@ -321,5 +321,3 @@ Please create an Issue on GitHub primarily for cases concerning more general pro
 - [Dortania](https://github.com/dortania) for OpenCore configuration guides
 - [AMD-OSX Community](https://amd-osx.com) for support while making my Hackintosh
 - [SocketByte](https://github.com/SocketByte) for README maintenance and being a great friend :)
-
-![Screenshot](/screenshot.png?raw=true)
